@@ -1,0 +1,21 @@
+.header-container .navbar {
+    padding: 10px 20px;
+    .navbar-brand {
+        background-color: #1dbad6;
+        padding: 8px 20px;
+        border-radius: 6px;
+        color: #fff8dc;
+    }
+}
+
+.nav-item:hover {
+    background: #1dbad6;
+    border-radius: 6px;
+    transition: all 0.2s;
+    & a.nav-link {
+        color: whitesmoke;
+    }
+    & a.nav-link:hover {
+        color: whitesmoke;
+    }
+}

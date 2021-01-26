@@ -1,0 +1,45 @@
+.about-container {
+  flex: 1;
+  main {
+    padding: 5em 12% 72px 3em;
+    margin: 0 auto 40px;
+  }
+  .link-container {
+    display: flex;
+    justify-content: space-between;
+  }
+  .block-container {
+    background-color: white;
+    padding: 2em;
+    margin: 0 auto;
+    article.block {
+      img#image1 {
+        height: 300px;
+        width: 70%;
+        float: left;
+        padding: 1em;
+      }
+    }
+  }
+
+  #exampleInputName{
+    width: 40%;
+
+  }
+  #exampleInputEmail1{
+    width: 40%;
+
+  }
+  #exampleInputMessage{
+    width: 40%;
+    height: 5em;
+    padding-bottom:  2em;;
+
+  }
+  button {
+    margin: 2em 2em 2em 0;
+  }
+  .form-group {
+    margin-bottom: 1rem;
+  }
+}
