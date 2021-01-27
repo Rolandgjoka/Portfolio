@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.877042ff.chunk.css",
+    "main.js": "/static/js/main.a07060ac.chunk.js",
+    "main.js.map": "/static/js/main.a07060ac.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.37aeef1c.js",
+    "runtime-main.js.map": "/static/js/runtime-main.37aeef1c.js.map",
+    "static/css/2.3877c167.chunk.css": "/static/css/2.3877c167.chunk.css",
+    "static/js/2.e51bb829.chunk.js": "/static/js/2.e51bb829.chunk.js",
+    "static/js/2.e51bb829.chunk.js.map": "/static/js/2.e51bb829.chunk.js.map",
+    "static/js/3.3ea2026c.chunk.js": "/static/js/3.3ea2026c.chunk.js",
+    "static/js/3.3ea2026c.chunk.js.map": "/static/js/3.3ea2026c.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.3877c167.chunk.css.map": "/static/css/2.3877c167.chunk.css.map",
+    "static/css/main.877042ff.chunk.css.map": "/static/css/main.877042ff.chunk.css.map",
+    "static/js/2.e51bb829.chunk.js.LICENSE.txt": "/static/js/2.e51bb829.chunk.js.LICENSE.txt",
+    "static/media/Coin-flip.b69d70bc.png": "/static/media/Coin-flip.b69d70bc.png",
+    "static/media/PasswordGenerator.cccb9d81.png": "/static/media/PasswordGenerator.cccb9d81.png",
+    "static/media/Quiz.a923095e.png": "/static/media/Quiz.a923095e.png",
+    "static/media/RolandImage.7fb6bc1a.jpg": "/static/media/RolandImage.7fb6bc1a.jpg",
+    "static/media/WeatherDashboard.494418ac.png": "/static/media/WeatherDashboard.494418ac.png",
+    "static/media/WorkDayScheduler.2902793b.png": "/static/media/WorkDayScheduler.2902793b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.37aeef1c.js",
+    "static/css/2.3877c167.chunk.css",
+    "static/js/2.e51bb829.chunk.js",
+    "static/css/main.877042ff.chunk.css",
+    "static/js/main.a07060ac.chunk.js"
+  ]
+}
